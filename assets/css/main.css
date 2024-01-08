@@ -74,7 +74,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background: #ffffff; }
+  background: #444444; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -117,7 +117,7 @@ a {
       color: inherit; }
 
 strong, b {
-  color: #3d4449;
+  color: #1891e7;
   font-weight: 600; }
 
 em, i {
@@ -127,7 +127,7 @@ p {
   margin: 0 0 2em 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #3d4449;
+  color: #53aef0;
   font-family: "Roboto Slab", serif;
   font-weight: 700;
   line-height: 1.5;
